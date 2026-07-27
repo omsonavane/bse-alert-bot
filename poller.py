@@ -52,6 +52,12 @@ def send_telegram(message):
 def resolve_scripcodes(bse, symbols, cache):
     changed = False
     for symbol in symbols:
+        if symbol.isdigit():
+            # Already a numeric scrip code — no lookup needed.
+            if symbol not in cache.values():
+                cache[symbol] = symbol
+                changed = True
+            continue
         if symbol not in cache:
             try:
                 code = bse.getScripCode(symbol)
@@ -62,7 +68,6 @@ def resolve_scripcodes(bse, symbols, cache):
                 print(f"Could not resolve scrip code for {symbol}: {e}")
     scripcode_to_symbol = {v: k for k, v in cache.items()}
     return cache, scripcode_to_symbol, changed
-
 
 def fetch_all_results_today(bse, today):
     all_rows = []
