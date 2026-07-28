@@ -3,7 +3,7 @@ name: BSE Results Poller
 
 on:
      schedule:
-       - cron: '*/2 * * * *'
+       - cron: '*/5 * * * *'
      workflow_dispatch:   # lets you trigger it manually anytime, even outside the active season
 
 permissions:
