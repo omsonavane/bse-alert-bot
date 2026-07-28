@@ -1,1 +1,148 @@
-Vedant Fashions
+#Fredun Pharmaceuticals Ltd
+539730
+#Taal Tech Ltd (TAAL Enterprises)
+539956
+#Alivus Life Sciences Ltd (formerly Glenmark Life Sciences)
+543322
+#Canara Bank
+532483
+#IDFC First Bank Ltd
+539437
+#Vadilal Industries Ltd
+519156
+#Caplin Point Laboratories Ltd
+524742
+#Hemant Surgical Industries Ltd
+543916
+#Nirlon Ltd
+500307
+#Bank of Maharashtra
+532525
+#Balmer Lawrie Investments Ltd
+532485
+#IndiaMART InterMESH Ltd
+542726
+#Bharat Electronics Ltd (BEL)
+500049
+#Bhansali Engineering Polymers Ltd
+500052
+#REC Ltd
+532955
+#ITC Ltd
+500875
+#Garden Reach Shipbuilders & Engineers Ltd
+542011
+#PTC India Ltd
+532524
+#Coal India Ltd
+533278
+#UTI Asset Management Co Ltd
+543238
+#Procter & Gamble Health Ltd
+500126
+#GAIL India Ltd
+532155
+#India Nippon Electricals Ltd
+532240
+#Unique Organics Ltd
+530997
+#Ahasolar Technologies Ltd
+543941
+#Hindustan Aeronautics Ltd (HAL)
+541154
+#Motilal Oswal Financial Services Ltd
+532892
+#Can Fin Homes Ltd
+511196
+#Man Industries India Ltd
+513269
+#Sree Rayalaseema Hi-Strength Hypo Ltd
+532842
+#Shipping Corporation Of India Ltd
+523598
+#Vindhya Telelinks Ltd
+517015
+#Mstc Ltd
+542597
+#Vedant Fashions Ltd
+543463
+#Canara Robeco Asset Management Company Ltd
+544580
+#National Aluminium Co Ltd (NALCO)
+532234
+#Bank of Baroda
+532134
+#Chemkart India Ltd
+544442
+#Vadilal Enterprises Ltd
+519152
+#Vedanta Ltd
+500295
+#NHPC Ltd
+533098
+#Power Finance Corporation Ltd (PFC)
+532810
+#Edelweiss Financial Services Ltd
+532922
+#Deepak Fertilizers and Petrochemicals Corp. Ltd
+500645
+#International Gemological Institute Ltd (IGIL)
+544311
+#Beezaasan Explotech Ltd
+#544369
+#Som Distilleries & Breweries Ltd
+507514
+#Petronet LNG Ltd
+532522
+#NMDC Ltd
+531335
+#Axel Polymers Ltd
+513642
+#BF Investment Ltd
+533303
+#Sonalis Consumer Products Limited
+543924
+#Sunteck Realty Ltd
+512179
+#Shree Pacetronix Limited
+527005
+#Workmates Core2Cloud Solution Ltd
+544610
+#Sula Vineyards Ltd
+543711
+#India Gelatine and Chemicals Ltd
+531253
+#Pan Electronics India Ltd
+517397
+#Oxygenta Pharmaceutical Ltd
+524636
+#DSM Fresh Foods Ltd (Zappfresh)
+544568
+#L.T. Elevator Ltd
+544518
+#Emami Ltd
+532478
+#Coffee Day Enterprises Ltd
+539436
+#Prostarm Info Systems Ltd
+544410
+#Bajaj Finance Ltd
+500034
+#Rategain Travel Technologies Ltd
+543417
+#Hindustan Zinc Ltd
+500188
+#Waaree Renewable Technologies Ltd
+534618
+
+
+
+#WatchlistCompanies
+
+
+#Equitas Bank
+543243
+#Supreme Industries
+509930
+#VST Industries
+509966
