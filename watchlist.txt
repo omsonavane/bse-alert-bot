@@ -139,56 +139,24 @@
 
 #WatchlistCompanies
 
-#ACME Solar Holdings Ltd
-544283
-#Asian Paints Ltd
-500820
-#Bajaj Housing Finance Ltd
-544252
-#Balkrishna Industries Ltd
-502355
-#Chalet Hotels Ltd
-542399
-#Chemfab Alkalis Ltd
-541269
-#Colgate-Palmolive (India) Ltd
-500830
-#Dabur India Ltd
-500096
-#Dhanlaxmi Bank Ltd
-532180
-#Eicher Motors Ltd
-505200
-#eMudhra Ltd
-543533
-#Force Motors Ltd
-500033
-#Garden Reach Shipbuilders & Engineers Ltd (GRSE)
-542011
-#Hawkins Cookers Ltd
-508486
-#Jammu & Kashmir Bank Ltd
-532209
-#Jagsonpal Pharmaceuticals Ltd
-507789
-#Maharashtra Scooters Ltd
-500266
-#MOIL Ltd
-533286
-#Mold-Tek Packaging Ltd
-533080
-#PCBL Chemical Ltd
-506590
-#Shanthi Gears Ltd
-522034
-#Sharda Cropchem Ltd
-538666
-#Syngene International Ltd
-539268
-#V-Guard Industries Ltd
-532953
-#Vintage Coffee and Beverages Ltd
-538920
-#Waaree Energies Ltd
-544277
+
+#Aarti Industries Ltd	
+524208
+#Ajanta Pharma Ltd	
+532331
+#Anlon Healthcare Ltd	
+544497
+#Chambal Fertilisers & Chemicals Ltd	
+500085
+#Mazagon Dock Shipbuilders Ltd (MDL)	
+543237
+#Mahanagar Gas Ltd	
+539957
+#Pricol Ltd	
+540293
+#Rainbow Children's Medicare Ltd	
+543524
+#Torrent Pharmaceuticals Ltd	
+500420
+
 
