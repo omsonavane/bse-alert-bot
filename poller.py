@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from datetime import datetime
 import requests
 from bse import BSE
@@ -69,16 +70,32 @@ def resolve_scripcodes(bse, symbols, cache):
     scripcode_to_symbol = {v: k for k, v in cache.items()}
     return cache, scripcode_to_symbol, changed
 
-def fetch_all_results_today(bse, today):
+def fetch_all_results_today(bse, today, max_retries=3):
     all_rows = []
     page_no = 1
     while True:
-        data = bse.announcements(
-            page_no=page_no,
-            from_date=today,
-            to_date=today,
-            category=CATEGORY.RESULT,
-        )
+        data = None
+        for attempt in range(1, max_retries + 1):
+            try:
+                data = bse.announcements(
+                    page_no=page_no,
+                    from_date=today,
+                    to_date=today,
+                    category=CATEGORY.RESULT,
+                )
+                break
+            except Exception as e:
+                print(f"Attempt {attempt}/{max_retries} failed fetching page {page_no}: {e}")
+                if attempt < max_retries:
+                    wait = 5 * attempt
+                    print(f"Retrying in {wait} seconds...")
+                    time.sleep(wait)
+
+        if data is None:
+            print(f"Giving up on page {page_no} after {max_retries} attempts. "
+                  f"Returning {len(all_rows)} rows fetched so far.")
+            break
+
         rows = data.get("Table", [])
         all_rows.extend(rows)
 
