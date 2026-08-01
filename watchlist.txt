@@ -140,61 +140,14 @@
 #WatchlistCompanies
 
 
-#20 Microns Limited	
-533022
-#Aarti Drugs Limited	
-524348
-#Bajaj Holdings & Investment Limited	
-500490
-#Concord Biotech Limited	
-543960
-#Corona Remedies Limited	
-544644
-#Dhampur Sugar Mills Limited	
-500119
-#Dixon Technologies (India) Limited	
-540699
-#Family Care Hospitals Limited	
-516110
-#GAIL (India) Limited	
-532155
-#Glenmark Pharmaceuticals Limited	
-532296
-#Gujarat Mineral Development Corporation Limited	
-532181
-#Gujarat Poly Electronics Limited	
-517288
-#Hindustan Bio Sciences Limited	
-532041
-#Indian Oil Corporation Limited	
-530965
-#ITC Limited	
-500875
-#Jupiter Life Line Hospitals Limited	
-543980
-#Maruti Suzuki India Limited	
-532500
-#Maxgrow India Limited	
-521167
-#National Aluminium Company Limited	
-532234
-#Narayana Hrudayalaya Limited	
-539551
-#SMS Pharmaceuticals Limited	
-532815
-#Strides Pharma Science Limited	
-532531
-#Sun Pharmaceutical Industries Limited	
-524715
-#Leela Palaces Hotels & Resorts Limited	
-544408
-#Transcorp International Limited	
-532410
-#Voltamp Transformers Limited	
-532757
-#Xpro India Limited	
-590013
-#Zuari Agro Chemicals Limited	
-534742
-
+#APL Apollo Tubes Limited	
+533758
+#Balmer Lawrie & Company Limited	
+523319
+#Divi's Laboratories Limited	
+532488
+#EPack Prefab Technologies Limited	
+544540
+#Gujarat Ambuja Exports Limited	
+524226
 
