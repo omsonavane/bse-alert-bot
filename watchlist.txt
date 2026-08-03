@@ -140,14 +140,41 @@
 #WatchlistCompanies
 
 
-#APL Apollo Tubes Limited	
-533758
-#Balmer Lawrie & Company Limited	
-523319
-#Divi's Laboratories Limited	
-532488
-#EPack Prefab Technologies Limited	
-544540
-#Gujarat Ambuja Exports Limited	
-524226
+#Artemis Medicare Services ltd	
+542919
+#Ather Energy ltd	
+544397
+#Avadh Sugar & Energy ltd	
+540649
+#Dhanuka Agritech ltd	
+507717
+#DOMS Industries ltd	
+544045
+#Dr. Agarwal's Eye Hospital ltd	
+526783
+#Escorts Kubota ltd	
+500495
+#Ethos ltd	
+543532
+#Ganesha Ecosphere ltd	
+514167
+#The Great Eastern Shipping Company ltd	
+500620
+#Indian Renewable Energy Development Agency ltd	
+544026
+#Jindal Stainless ltd	
+532508
+#Kansai Nerolac Paints ltd	
+500165
+#KEI Industries ltd	
+517569
+#Krishna Institute of Medical Sciences ltd	
+543308
+#Noida Toll Bridge Company ltd	
+532481
+#Restaurant Brands Asia ltd	
+543248
+#Texmaco Rail & Engineering ltd	
+533326
+
 
