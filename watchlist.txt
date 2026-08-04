@@ -140,41 +140,51 @@
 #WatchlistCompanies
 
 
-#Artemis Medicare Services ltd	
-542919
-#Ather Energy ltd	
-544397
-#Avadh Sugar & Energy ltd	
-540649
-#Dhanuka Agritech ltd	
-507717
-#DOMS Industries ltd	
-544045
-#Dr. Agarwal's Eye Hospital ltd	
-526783
-#Escorts Kubota ltd	
-500495
-#Ethos ltd	
-543532
-#Ganesha Ecosphere ltd	
-514167
-#The Great Eastern Shipping Company ltd	
-500620
-#Indian Renewable Energy Development Agency ltd	
-544026
-#Jindal Stainless ltd	
-532508
-#Kansai Nerolac Paints ltd	
-500165
-#KEI Industries ltd	
-517569
-#Krishna Institute of Medical Sciences ltd	
-543308
-#Noida Toll Bridge Company ltd	
-532481
-#Restaurant Brands Asia ltd	
-543248
-#Texmaco Rail & Engineering ltd	
-533326
-
-
+#Dr. Agarwals Health Care Limited	
+544350
+#Alkyl Amines Chemicals Limited
+506767
+#Andhra Paper Limited
+502330
+#Alembic Pharmaceuticals Limited
+533573
+#Bharat Seats Limited
+523229
+#Bharti Airtel Limited
+532454
+#Deepak Nitrite Limited
+506401
+#Dhampure Speciality Sugars Limited
+531923
+#Fine-Line Circuits Limited
+517264
+#Fortis Malar Hospitals Limited
+523696
+#Graphite India Limited
+509488
+#Happy Forgings Limited
+544057
+#Indian Metals & Ferro Alloys Limited
+533047
+#Looks Health Services Limited
+534422
+#Magadh Sugar & Energy Limited
+540650
+#Multi Commodity Exchange of India Limited
+534091
+#Metropolis Healthcare Limited
+542650
+#Morepen Laboratories Limited
+500288
+#Motherson Sumi Wiring India Limited
+543498
+#Orkla India Limited
+544595
+#Pondy Oxides and Chemicals ltd
+532626
+#Protean eGov Technologies ltd
+544021
+#Safari Industries (India) ltd
+523025
+#Sanofi India ltd
+500674
