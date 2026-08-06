@@ -140,45 +140,47 @@
 #WatchlistCompanies
 
 
-#Automobile Corporation of Goa ltd	
-505036
-#Ajax Engineering ltd
-544356
-#Amanta Healthcare ltd
-544502
-#Asahi India Glass ltd
-515030
-#Aster DM Healthcare ltd
-540975
-#Aurobindo Pharma ltd
-524804
-#Bayer CropScience ltd
-506285
-#Berger Paints India ltd
-509480
-#Bikaji Foods International ltd
-543653
-#Biocon ltd
-532523
-#Bharat Parenterals ltd
-541096
-#Cohance Lifesciences ltd
-543064
-#Inventurus Knowledge Solutions Limited
-544309
-#Navin Fluorine International Limited
-532504
-#Neuland Laboratories Limited
-524558
-#Power Grid Corporation of India Limited
-532898
-#Shree Renuka Sugars Limited
-532670
-#Shilpa Medicare Limited
-530549
-#Sudarshan Chemical Industries ltd
-506390
-#Taneja Aerospace and Aviation ltd
-522229
-#The Ugar Sugar Works ltd
+#Advent Hotels International ltd
+544446
+#Albert David ltd
+524075
+#Apollo Tyres ltd
+500877
+#Britannia Industries ltd
+500825
+#Chaman Lal Setia Exports ltd
+530307
+#Crompton Greaves Consumer Electricals ltd
+539876
+#EIH ltd
+500840
+#Indraprastha Medical Corporation ltd
+532150
+#Interarch Building Products ltd
+544232
+#Fortis Healthcare ltd
+532843
+#Garware Hi-Tech Films ltd
+500655
+#Hero MotoCorp ltd
+500182
+#Jenburkt Pharmaceuticals ltd
+524731
+#Krebs Biochemicals & Industries ltd
+524518
+#Lupin ltd
+500257
+#Samvardhana Motherson International ltd
+517334
+#The Sandur Manganese & Iron Ores ltd
+504918
+#Suven Life Sciences Limited
+530239
+#Trent Limited
+500251
+#Vijaya Diagnostic Centre Limited
+543350
+#Vikram Solar Limited
+544488
+
 530363
