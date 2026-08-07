@@ -140,47 +140,25 @@
 #WatchlistCompanies
 
 
-#Advent Hotels International ltd
-544446
-#Albert David ltd
-524075
-#Apollo Tyres ltd
-500877
-#Britannia Industries ltd
-500825
-#Chaman Lal Setia Exports ltd
-530307
-#Crompton Greaves Consumer Electricals ltd
-539876
-#EIH ltd
-500840
-#Indraprastha Medical Corporation ltd
-532150
-#Interarch Building Products ltd
-544232
-#Fortis Healthcare ltd
-532843
-#Garware Hi-Tech Films ltd
-500655
-#Hero MotoCorp ltd
-500182
-#Jenburkt Pharmaceuticals ltd
-524731
-#Krebs Biochemicals & Industries ltd
-524518
-#Lupin ltd
-500257
-#Samvardhana Motherson International ltd
-517334
-#The Sandur Manganese & Iron Ores ltd
-504918
-#Suven Life Sciences Limited
-530239
-#Trent Limited
-500251
-#Vijaya Diagnostic Centre Limited
-543350
-#Vikram Solar Limited
-544488
-
-530363
+#GUJTHEM
+506879
+#IMAGICAA
+539056
+#JAMNAAUTO
+520051
+#KMSUGAR
+532673
+#KOVAI
+523323
+#ORIENTPPR
+502420
+#PFC
+532810
+#POLYMED
+531768
+#SBIN
+500112
+#TITAN
+500114
+#UNIVCABLES
+504212
