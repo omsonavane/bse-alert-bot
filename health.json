@@ -1,5 +1,5 @@
 {
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "last_error": "ler.py\", line 158, in fetch_page\n    return bse.announcements(\n           ^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/bse/BSE.py\", line 323, in announcements\n    return self.__req(url, params).json()\n           ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/bse/BSE.py\", line 140, in __req\n    raise ConnectionError(f\"{response.status_code}: {response.reason}\")\nConnectionError: 403: Forbidden\n",
-  "last_failure_at": "03-10-2026 13:50 IST"
+  "last_failure_at": "03-10-2026 14:00 IST"
 }
