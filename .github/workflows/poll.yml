@@ -1,3 +1,4 @@
+#nudge
 name: BSE Results Poller
 
 on:
@@ -6,9 +7,16 @@ on:
 permissions:
   contents: write
 
+# Only one run at a time. If a new trigger arrives while a run is going,
+# it waits instead of running in parallel (prevents duplicate alerts).
+concurrency:
+  group: bse-results-poller
+  cancel-in-progress: false
+
 jobs:
   poll:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -17,24 +25,37 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run poller
+        id: poll
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python poller.py
 
+      # Runs even if the poller failed, so alerts already sent are remembered.
       - name: Save updated state back to repo
+        if: always() && (steps.poll.outcome == 'success' || steps.poll.outcome == 'failure')
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen.json scripcode_cache.json
-          git diff --staged --quiet || git commit -m "Update seen announcements and scrip code cache"
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && break
-            echo "Push failed, retrying ($i)..."
+          for f in seen.json scripcode_cache.json health.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --staged --quiet; then
+            echo "No state changes to save."
+            exit 0
+          fi
+          git commit -m "Update bot state"
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt), retrying in 5s..."
             sleep 5
           done
+          exit 1
