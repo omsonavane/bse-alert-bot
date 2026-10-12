@@ -1,175 +1,584 @@
+#Investee Companies
+
+#TAAL Tech Ltd
+539956
 #Fredun Pharmaceuticals Ltd
 539730
-#Taal Tech Ltd (TAAL Enterprises)
-539956
-#Alivus Life Sciences Ltd (formerly Glenmark Life Sciences)
+#Alivus Life Sciences Ltd
 543322
+#Vadilal Industries Ltd
+519156
 #Canara Bank
 532483
 #IDFC First Bank Ltd
 539437
-#Vadilal Industries Ltd
-519156
 #Caplin Point Laboratories Ltd
 524742
-#Hemant Surgical Industries Ltd
-543916
 #Nirlon Ltd
 500307
-#Bank of Maharashtra
-532525
+#Hemant Surgical Industries Ltd
+543916
+#Bhansali Engineering Polymers Ltd
+500052
 #Balmer Lawrie Investments Ltd
 532485
 #IndiaMART InterMESH Ltd
 542726
-#Bharat Electronics Ltd (BEL)
-500049
-#Bhansali Engineering Polymers Ltd
-500052
-#REC Ltd
-532955
 #ITC Ltd
 500875
-#Garden Reach Shipbuilders & Engineers Ltd
-542011
-#PTC India Ltd
-532524
-#Coal India Ltd
-533278
-#UTI Asset Management Co Ltd
-543238
-#Procter & Gamble Health Ltd
-500126
-#GAIL India Ltd
-532155
 #India Nippon Electricals Ltd
 532240
-#Unique Organics Ltd
-530997
-#Ahasolar Technologies Ltd
-543941
-#Hindustan Aeronautics Ltd (HAL)
-541154
-#Motilal Oswal Financial Services Ltd
-532892
-#Can Fin Homes Ltd
-511196
+#Garden Reach Shipbuilders & Engineers Ltd
+542011
+#Shipping Corporation of India Ltd
+523598
+#Coal India Ltd
+533278
+#Bharat Electronics Ltd
+500049
+#UTI Asset Management Company Ltd
+543238
+#REC Ltd
+532955
+#MSTC Ltd
+542597
 #Man Industries India Ltd
 513269
-#Sree Rayalaseema Hi-Strength Hypo Ltd
-532842
-#Shipping Corporation Of India Ltd
-523598
-#Vindhya Telelinks Ltd
-517015
-#Mstc Ltd
-542597
-#Vedant Fashions Ltd
-543463
-#Canara Robeco Asset Management Company Ltd
-544580
-#National Aluminium Co Ltd (NALCO)
-532234
-#Bank of Baroda
-532134
+#Gail India Ltd
+532155
+#Procter & Gamble Health Ltd
+500126
+#Housing & Urban Development Corporation Ltd
+540530
+#PTC India Ltd
+532524
 #Chemkart India Ltd
 544442
-#Vadilal Enterprises Ltd
-519152
+#Coffee Day Enterprises Ltd
+539436
+#Hindustan Aeronautics Ltd
+541154
+#Unique Organics Ltd
+530997
+#Vedant Fashions Ltd
+543463
+#Beezaasan Explotech Ltd
+544369
+#Vindhya Telelinks Ltd
+517015
+#Can Fin Homes Ltd
+511196
+#Ahasolar Technologies Ltd
+543941
 #Vedanta Ltd
 500295
+#Sree Rayalaseema Hi-Strength Hypo Ltd
+532842
+#National Aluminium Company Ltd
+532234
+#Canara Robeco Asset Management Company Ltd
+544580
+#Vedanta Aluminium Metal Ltd
+544780
+#International Gemological Institute Ltd
+544311
+#Vadilal Enterprises Ltd
+519152
 #NHPC Ltd
 533098
-#Power Finance Corporation Ltd (PFC)
+#Bank of Baroda
+532134
+#Power Finance Corporation Ltd
 532810
-#Edelweiss Financial Services Ltd
-532922
-#Deepak Fertilizers and Petrochemicals Corp. Ltd
-500645
-#International Gemological Institute Ltd (IGIL)
-544311
-#Beezaasan Explotech Ltd
-#544369
+#Great Eastern Shipping Company Ltd
+500620
+#Shree Pacetronix Ltd
+527005
+#JK Tyre & Industries Ltd
+530007
+#Fermenta Biotech Ltd
+506414
+#Oxygenta Pharmaceutical Ltd
+524636
+#Indian Renewable Energy Development Agency Ltd
+544026
+#Sanofi India Ltd
+500674
+#360 ONE WAM Ltd
+542772
 #Som Distilleries & Breweries Ltd
 507514
 #Petronet LNG Ltd
 532522
-#NMDC Ltd
-531335
-#Axel Polymers Ltd
-513642
-#BF Investment Ltd
-533303
-#Sonalis Consumer Products Limited
-543924
-#Sunteck Realty Ltd
-512179
-#Shree Pacetronix Limited
-527005
-#Workmates Core2Cloud Solution Ltd
-544610
+#Waaree Energies Ltd
+544277
 #Sula Vineyards Ltd
 543711
-#India Gelatine and Chemicals Ltd
+#L. T. Elevator Ltd
+544518
+#Workmates Core2Cloud Solution Ltd
+544610
+#NMDC Ltd
+526371
+#Axel Polymers Ltd
+513642
+#Emami Ltd
+531162
+#Sunteck Realty Ltd
+512179
+#Tarsons Products Ltd
+543399
+#Sonalis Consumer Products Ltd
+543924
+#India Gelatine & Chemicals Ltd
 531253
+#Vedanta Oil and Gas Ltd
+544782
+#Kama Holdings Ltd
+532468
 #Pan Electronics India Ltd
 517397
-#Oxygenta Pharmaceutical Ltd
-524636
-#DSM Fresh Foods Ltd (Zappfresh)
+#Vaibhav Global Ltd
+532156
+#Morepen Laboratories Ltd
+500288
+#Raminfo Ltd
+530951
+#Amrutanjan Health Care Ltd
+590006
+#Emmvee Photovoltaic Power Ltd
+544608
+#Vedanta Power Ltd
+544781
+#Vedanta Iron And Steel Ltd
+544784
+#DSM Fresh Foods Ltd
 544568
-#L.T. Elevator Ltd
-544518
-#Emami Ltd
-532478
-#Coffee Day Enterprises Ltd
-539436
+#VLS Finance Ltd
+511333
 #Prostarm Info Systems Ltd
 544410
-#Bajaj Finance Ltd
-500034
-#Rategain Travel Technologies Ltd
+#BF Investment Ltd
+533303
+#RateGain Travel Technologies Ltd
 543417
 #Hindustan Zinc Ltd
 500188
+#Fabtech Cleanrooms Ltd
+544332
 #Waaree Renewable Technologies Ltd
 534618
+#Protean eGov Technologies Ltd
+544021
 
 
 
-#WatchlistCompanies
+#WatchlistCompanies*
 
 
-#ACHYUT
-543499
-#AMBER
-540902
-#APEX
-540692
-#BRIGADE
+#20 Microns
+533022
+#Aarti Drugs
+524348
+#Aarti Industries
+524208
+#Acknit Indus.
+530043
+#Action Const.Eq.
+532762
+#Advanced Enzyme
+540025
+#Ajanta Pharma
+532331
+#Ajax Engineering
+544356
+#Akums Drugs
+544222
+#Alembic Pharma
+533573
+#Alkyl Amines
+506767
+#Allied Blenders
+544203
+#Alufluoride
+524634
+#Amanta Healthcar
+544502
+#Amrutanjan Healt
+590006
+#Andhra Paper
+502330
+#Anlon Healthcare
+544497
+#Antony Waste han
+543254
+#Apollo Hospitals
+508869
+#Artemis Medicare
+542919
+#Ashok Leyland
+500477
+#Ashoka Buildcon
+533271
+#Aspira Pathlab
+540788
+#Astrazeneca Phar
+506820
+#Ather Energy
+544397
+#Atul Auto
+531795
+#Aurobindo Pharma
+524804
+#Avadh Sugar
+540649
+#Bal Pharma
+524824
+#Balkrishna Inds
+502355
+#Balmer Lawrie
+523319
+#Balrampur Chini
+500038
+#Bank of India
+532149
+#Bansal Roofing
+538546
+#Bharat Dynamics
+541143
+#Bharat Forge
+500493
+#Bharat Seats
+523229
+#Bharti Airtel
+532454
+#Bliss GVS Pharma
+506197
+#Brigade Enterpr.
 532929
-#DCMSRIND
-523369
-#GAUDIUMIVF
+#Chamanlal Setia
+530307
+#Chambal Fert.
+500085
+#Chemfab Alka.
+541269
+#CMR Green Tech.
+544777
+#Cochin Shipyard
+540678
+#Cohance Life
+543064
+#Concord Biotech
+543960
+#Concord Enviro
+544315
+#Container Corpn.
+531344
+#Corona Remedies
+544644
+#DCB Bank
+532772
+#Delta Corp
+532848
+#Dhampur Sugar
+500119
+#Dhanlaxmi Bank
+532180
+#Dhanuka Agritech
+507717
+#Divgi Torq
+543812
+#Star Insurance
+543412
+#Niva Bupa
+544286
+#DOMS Industries
+544045
+#Dr Agarwal's Eye
+526783
+#Dr Agarwal's Hea
+544350
+#Eicher Motors
+505200
+#EID Parry
+500125
+#EMS
+543983
+#eMudhra
+543533
+#Enviro Infra
+544290
+#EPack PrefabTech
+544540
+#Escorts Kubota
+500495
+#Ethos
+543532
+#Fine Line Cir.
+517264
+#Fortis Health.
+532843
+#G M D C
+532181
+#Ganesha Ecosphe.
+514167
+#Gaudium IVF
 544709
-#IPCALAB
+#GE Shipping Co
+500620
+#Gland Pharma
+543245
+#Godfrey Phillips
+500163
+#Graphite India
+509488
+#Gravita India
+533282
+#Guj. Ambuja Exp
+524226
+#Gujarat Fluoroch
+542812
+#Wipro
+507685
+#Hawkins Cookers
+508486
+#Hindustan Copper
+513599
+#HCL
+532281
+#I R C T C
+542830
+#Ideaforge Tech
+543932
+#Ind-Swift Labs.
+532305
+#India Glycols
+500201
+#Indian Metals
+533047
+#Indo Farm Equip.
+544328
+#Indosolar
+533257
+#Indrapr.Medical
+532150
+#Xelpmoc Design
+542367
+#Infosys
+500209
+#Innova Captab
+544067
+#Ipca Labs.
 524494
-#JUBLFOOD
-533155
-#KERNEX
-532686
-#MAXHEALTH
+#Jagsonpal Pharma
+507789
+#Jindal Stain.
+532508
+#Jindal Steel
+532286
+#JK Paper
+532162
+#Jubilant Pharmo
+530019
+#Jungle Camps
+544304
+#Jupiter Life Lin
+543980
+#Jyothy Labs
+532926
+#KCP Sugar &Inds.
+533192
+#KEI Industries
+517569
+#Kimia Bioscien.
+530313
+#Kovai Medical
+523323
+#Krishna Institu.
+543308
+#Krsnaa Diagnost.
+543328
+#Kuantum Papers
+532937
+#Laurus Labs
+540222
+#Leela Palaces Hotels
+544408
+#Lumax Auto Tech.
+532796
+#Lupin
+500257
+#Magadh Sugar
+540650
+#Manaksia Alumi.
+539045
+#Mangalam Drugs
+532637
+#Maruti Suzuki
+532500
+#Max Healthcare
 543220
-#NEXUSSURGL
+#Mazagon Dock
+543237
+#Metropolis Healt
+542650
+#Mishra Dhatu Nig
+541195
+#MOIL
+533286
+#Mold-Tek Pack.
+533080
+#Morepen Labs.
+500288
+#Multi Comm. Exc.
+534091
+#Narayana Hrudaya
+539551
+#Natco Pharma
+524816
+#Navin Fluo.Intl.
+532504
+#Neuland Labs.
+524558
+#Nexus Surgical
 538874
-#PANACEABIO
+#NGL Fine Chem
+524774
+#IndoMIM
+544837
+#NTPC Green Ene.
+544289
+#Panacea Biotec
 531349
-#PREMEXPLN
-526247
-#SUPRIYA
-543434
-#THEMISMED
-530199
-#VADIDAI
-519451
-
+#PCBL Chemical
+506590
+#Petronet LNG
+532522
+#Pharmaids Pharma
+524572
+#Piccadily Agro
+530305
+#Poly Medicure
+531768
+#Power Grid Corpn
+532898
+#Prec. Wires (I)
+523539
+#Pricol Ltd
+540293
+#Protean eGov
+544021
+#Pudumjee Paper
+539785
+#R R Kabel
+543981
+#Rainbow Child.
+543524
+#Remsons Ind
+530919
+#Ruchira Papers
+532785
+#S A I L
+500113
+#Safari Inds.
+523025
+#SBI
+500112
+#Seshasayee Paper
+502450
+#Sh. Krishna Pap.
+500388
+#Sh. Rama Multi.
+532310
+#Sh.Renuka Sugar
+532670
+#Shakti Pumps
+531431
+#Shalby
+540797
+#Shanmuga Hos.
+544365
+#Shanthi Gears
+522034
+#Sharda Cropchem
+538666
+#Sharda Motor
+535602
+#Shilpa Medicare
+530549
+#Shriram Finance
+511218
+#SMS Pharma.
+532815
+#Somany Ceramics
+531548
+#SPARC
+532872
+#Star Paper Mills
+516022
+#Strides Pharma
+532531
+#Sudarshan Chem.
+506655
+#Sumitomo Chemi.
+542920
+#Sun Pharma.Inds.
+524715
+#Sunflag Iron
+500404
+#Supreme Inds.
+509930
+#Taneja Aerospace
+522229
+#SH Kelkar
+539450
+#Tata Power Co.
+500400
+#Texmaco Rail
+533326
+#Tilaknagar Inds.
+507205
+#Titan Company
+500114
+#Torrent Pharma.
+500420
+#UCO Bank
+532505
+#Ugar Sugar Works
+530363
+#Universal Cables
+504212
+#V-Guard Industri
+532953
+#Va Tech Wabag
+533269
+#Vaibhav Global
+532156
+#Vedanta Aluminium Metal
+544780
+#Vijaya Diagnost.
+543350
+#Vintage Coffee
+531051
+#Volt.Transform.
+532757
+#VST Industries
+509966
+#Waaree Energies
+544277
+#Wanbury
+524212
+#Websol Energy
+517498
+#Windlas Biotech
+543329
+#Wockhardt
+532300
+#XPRO India
+590013
+#Yatharth Hospit.
+543950
+#Zuari Agro Chem.
+507753
+#Zydus Lifesci.
+532321
