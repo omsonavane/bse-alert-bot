@@ -1,3 +1,5 @@
 {
-  "consecutive_failures": 0
+  "consecutive_failures": 1,
+  "last_error": "-alert-bot/bse-alert-bot/poller.py\", line 158, in fetch_page\n    return bse.announcements(\n           ^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/bse/BSE.py\", line 335, in announcements\n    return self.__req(url, params).json()\n           ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/bse/BSE.py\", line 151, in __req\n    raise TimeoutError(\"Request timed out\")\nTimeoutError: Request timed out\n",
+  "last_failure_at": "28-10-2026 17:52 IST"
 }
