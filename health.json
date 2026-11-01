@@ -1,5 +1,3 @@
 {
-  "consecutive_failures": 1,
-  "last_error": "olcache/Python/3.11.17/x64/lib/python3.11/site-packages/requests/models.py\", line 1042, in content\n    self._content = b\"\".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b\"\"\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/requests/models.py\", line 943, in generate\n    raise ConnectionError(e)\nrequests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.bseindia.com', port=443): Read timed out.\n",
-  "last_failure_at": "01-11-2026 22:41 IST"
+  "consecutive_failures": 0
 }
