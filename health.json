@@ -1,5 +1,5 @@
 {
-  "consecutive_failures": 1,
-  "last_error": "-alert-bot/bse-alert-bot/poller.py\", line 158, in fetch_page\n    return bse.announcements(\n           ^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/bse/BSE.py\", line 335, in announcements\n    return self.__req(url, params).json()\n           ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/bse/BSE.py\", line 151, in __req\n    raise TimeoutError(\"Request timed out\")\nTimeoutError: Request timed out\n",
-  "last_failure_at": "06-11-2026 14:12 IST"
+  "consecutive_failures": 2,
+  "last_error": "se.announcements(\n           ^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/bse/BSE.py\", line 335, in announcements\n    return self.__req(url, params).json()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/site-packages/requests/models.py\", line 1120, in json\n    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)\nrequests.exceptions.JSONDecodeError: Expecting value: line 3 column 1 (char 4)\n",
+  "last_failure_at": "06-11-2026 14:21 IST"
 }
